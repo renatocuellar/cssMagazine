@@ -1,0 +1,38 @@
+main {
+  display: flex;
+  align-items: flex-end;
+}
+
+main img {
+  margin-top: -250px;
+}
+
+.main__text {
+  display: inline-block;
+  text-transform: uppercase;
+  color: var(--contrasting-color);
+  gap: 0px;
+  width: auto;
+  margin-left: -200px;
+  text-align: center;
+}
+
+.main__text h1 {
+  display: flex;
+  gap: 5px;
+  align-self: center;
+}
+
+.main__text-y {
+  color: var(--dark-color);
+}
+
+.main__text-title {
+  color: var(--secondary-color);
+}
+
+.main__text p {
+  font: var(--body1);
+  margin-block-start: 2px;
+  margin-block-end: 2px;
+}

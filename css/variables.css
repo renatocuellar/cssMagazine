@@ -3,6 +3,7 @@
   --headline1: bold 95px/153px var(--fontBase);
   --body1: normal 16px/25px var(--fontBase);
   --primary-color: #243c9e;
-  --secundary-color: #fe4d1a;
+  --secondary-color: #fe4d1a;
   --contrasting-color: #fdfffb;
+  --dark-color: #05054a;
 }

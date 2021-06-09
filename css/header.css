@@ -1,0 +1,12 @@
+.header__text p {
+  display: flex;
+  font: var(--body1);
+  text-transform: uppercase;
+  gap: 5px;
+  margin-block-start: 5px;
+  margin-block-end: 20px;
+}
+
+.header__text span {
+  color: var(--contrasting-color);
+}

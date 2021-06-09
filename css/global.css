@@ -1,0 +1,7 @@
+body {
+  background: var(--primary-color);
+  min-block-size: 100vh;
+  min-inline-size: 100vw;
+  font: var(--body1);
+  color: var(--secondary-color);
+}
